@@ -1,0 +1,51 @@
+{
+    "S001": {
+        "name": "Alice Johnson",
+        "age": 20,
+        "school_name": "Tech University",
+        "completed_courses": {
+            "Math101": 88,
+            "CS201": 95,
+            "History101": 79
+        },
+        "ongoing_courses": {
+            "Physics202": "A",
+            "Art105": "In Progress"
+        }
+    },
+    "S002": {
+        "name": "Bob Smith",
+        "age": 21,
+        "school_name": "State College",
+        "completed_courses": {
+            "Math101": 92,
+            "Literature301": 85,
+            "Philosophy101": 90
+        },
+        "ongoing_courses": {
+            "Chemistry200": 75,
+            "Sociology305": "In Progress"
+        }
+    },
+    "S003": {
+        "name": "Charlie Brown",
+        "age": 19,
+        "school_name": "Tech University",
+        "completed_courses": {
+            "CS201": 75,
+            "Economics302": 82
+        },
+        "ongoing_courses": {
+            "Biology101": 90
+        }
+    },
+    "S004": {
+        "name": "Sam Smith",
+        "age": 25,
+        "school_name": "Humber College",
+        "completed_courses": {},
+        "ongoing_courses": {
+            "History": "In Progress"
+        }
+    }
+}
